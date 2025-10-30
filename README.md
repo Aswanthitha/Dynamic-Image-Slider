@@ -9,7 +9,8 @@ This project showcases a dynamic slider built using only vanilla JavaScript, HTM
 - Pure vanilla JavaScript – no external libraries
 - https://aswanthitha.github.io/Dynamic-Image-Slider/
   
-https://barjana.github.io/Dynamic-Image-Slider/
+
+
 
 
 
